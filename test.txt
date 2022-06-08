@@ -1,7 +1,4 @@
 something else
 something else
-<<<<<<< HEAD
 something else
-=======
 edit by dangvanty
->>>>>>> 7af6df829d8eb8da4482b9da75d316c37866b485
